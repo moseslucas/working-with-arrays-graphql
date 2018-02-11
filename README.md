@@ -2,7 +2,7 @@
 
 ![flat 800x800 075 f u1](https://user-images.githubusercontent.com/30344224/36075027-35bf9832-0f83-11e8-803c-8c4f5d24a8f5.jpg)
 
-### This is a working sample code-base-guide for the article [Working with arrays in GraphQL Ruby](https://medium.com/@lukeses09/working-with-arrays-in-graphql-ruby-d3321fb7a910) in [Medium](https://medium.com/)
+### This is a sample code, guide for the article [Working with arrays in GraphQL Ruby](https://medium.com/@lukeses09/working-with-arrays-in-graphql-ruby-d3321fb7a910) in [Medium](https://medium.com/)
 
 ### Visit medium article [Here](https://medium.com/@lukeses09/working-with-arrays-in-graphql-ruby-d3321fb7a910)
 
